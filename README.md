@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/viraj-ladvikar//)](https://www.linkedin.com/in/viraj-ladvikar/)
+[![Linkedin Badge](https://img.shields.io/badge/-Viraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/viraj-ladvikar//)](https://www.linkedin.com/in/viraj-ladvikar/)
 
 
 I'm
