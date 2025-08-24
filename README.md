@@ -1,6 +1,8 @@
 # Hi, I'm Viraj Ladvikar 👋
 ### Senior Software Engineer | MERN Stack Developer | E-commerce, HRMS & CRM Expert
 
+![Developer](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 🔭 I’m currently working as a **Senior Engineer** building **MERN stack applications** with expertise in **React, Node.js, Express, MongoDB, and MySQL**.  
 💼 I have experience in **E-commerce, HRMS, and CRM domains**, delivering scalable and high-performance solutions.  
 🌱 I’m also learning and working with **Python, AWS, Docker, and advanced frontend technologies**.
