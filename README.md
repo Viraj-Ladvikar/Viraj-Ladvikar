@@ -40,8 +40,3 @@
 
 ---
 
-## 📊 GitHub Stats
-![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirajLadvikar&show_icons=true&theme=radical)
-
----
-
