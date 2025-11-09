@@ -1,9 +1,9 @@
 # 👋 Hi, I'm **Viraj Ladvikar**
-### 🚀 AI Engineer | Data Scientist | Generative & Agentic AI | Data Engineer | Data Analyst | FSDS | BFSI Domain Expert  
+### 🚀 AI Engineer | Data Scientist | Generative & Agentic AI | Data Engineer | Data Analyst | FSDS | BFSI | HRMS | CRM  
 
-🔭 Currently working at the intersection of **Data Science, Generative AI, and Agentic AI**, building intelligent, data-driven systems across **BFSI, E-commerce, and HRMS** domains.  
-💡 Specialized in creating **end-to-end AI solutions** — from **data engineering & analytics** to **LLM integration and intelligent automation**.  
-🚀 Passionate about **AI-driven products, scalable data pipelines, and applied ML** blending software engineering with advanced analytics.
+🔭 I’m currently working at the intersection of **Data Science, Generative AI, and Agentic AI**, building intelligent, data-driven systems across **BFSI, HRMS, and CRM** domains.  
+💡 Specialized in designing **end-to-end AI pipelines** — from **data collection, engineering, and analytics** to **model training, LLM integration, and automation**.  
+🚀 Passionate about **data visualization, applied ML/DL, and intelligent automation**, blending engineering precision with AI creativity.  
 
 ---
 
@@ -44,19 +44,28 @@
 ---
 
 ## 🌍 Domain Expertise
-- **BFSI & FinTech:** Fraud detection, credit scoring, customer analytics  
-- **E-commerce:** Recommendation systems, customer segmentation, and predictive modeling  
-- **HRMS & CRM:** Employee analytics, automation, and intelligent insights  
+
+- **BFSI (Banking, Financial Services & Insurance):**  
+  Credit risk modeling, fraud detection, financial forecasting, customer churn prediction, and intelligent insights for decision-making.  
+
+- **HRMS (Human Resource Management Systems):**  
+  Employee analytics, attrition prediction, attendance tracking, and AI-powered performance evaluation systems.  
+
+- **CRM (Customer Relationship Management):**  
+  Customer segmentation, lead scoring, sales forecasting, and sentiment-driven automation with AI integration.  
 
 ---
 
-## 🧩 Focus Areas
-- Generative & Agentic AI Development  
-- Machine Learning & Predictive Modeling  
-- End-to-End Data Pipelines & ETL  
-- LLM Integrations (OpenAI, LangChain, LlamaIndex)  
-- Cloud Deployment (AWS, Docker)  
-- Data Visualization & Insights  
+## 🧩 Core Focus Areas
+
+- 🧠 **Generative AI & Agentic AI Systems** — Building autonomous AI agents and RAG-based solutions.  
+- 📊 **Data Visualization & Business Intelligence** — Interactive dashboards using Power BI, Plotly, and Matplotlib.  
+- 🔍 **Exploratory Data Analysis (EDA)** — Extracting insights, trends, and correlations from structured/unstructured data.  
+- 🤖 **Machine Learning (ML)** — Predictive modeling, feature engineering, and real-world deployment.  
+- 🧬 **Deep Learning (DL)** — Neural network architectures for NLP, tabular, and sequential data.  
+- 👁️ **Computer Vision (CV)** — Image recognition, object detection, and video analytics.  
+- ⚙️ **Data Engineering & Pipelines** — Real-time ETL, Kafka streaming, and data warehouse optimization.  
+- ☁️ **Cloud & MLOps** — Model deployment, CI/CD, and containerized ML with Docker & AWS.  
 
 ---
 
@@ -68,22 +77,13 @@
 
 ---
 
-## 🧠 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🤖 **AI Agentic Workflow Builder** | Automated workflow builder using LangGraph + OpenAI | LangChain, Python, FastAPI |
-| 🧩 **RAG Chatbot** | Context-aware chatbot with vector database retrieval | LlamaIndex, Pinecone, OpenAI |
-| 📊 **Data Pipeline Dashboard** | End-to-end ETL with Kafka + MySQL + Python | Kafka, MySQL, Pandas, Plotly |
-| 🧠 **Credit Risk Classifier** | BFSI-focused ML model for loan approval | Scikit-learn, Pandas, NumPy |
-
----
-
 ## 📫 Connect With Me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj_Ladvikar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/viraj-ladvikar)  
 [![GitHub](https://img.shields.io/badge/GitHub-virajladvikar-181717?style=for-the-badge&logo=github)](https://github.com/virajladvikar)  
 📧 **Email:** virajladvikar@example.com  
-🌐 **Portfolio:** *Coming Soon*  
+🌐 **Portfolio:** Coming Soon  
 
 ---
 
-⭐ *“Data + Intelligence + Automation = The Future.”*  
+⭐ *“Transforming Data into Intelligence, and Intelligence into Action.”*
