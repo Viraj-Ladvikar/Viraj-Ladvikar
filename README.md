@@ -69,14 +69,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-![Viraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virajladvikar&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virajladvikar&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajladvikar&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj_Ladvikar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/viraj-ladvikar)  
