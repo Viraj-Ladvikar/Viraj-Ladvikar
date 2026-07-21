@@ -1,205 +1,82 @@
-# 👋 Hi, I'm Viraj Ladvikar
+# 👋 Hi, I'm **Viraj Ladvikar**
+### 🧪 SDET | QA Automation Engineer | AI & LLM Testing Specialist | Playwright | Python | JavaScript
 
-## 🚀 SDET | QA Automation Engineer | AI/LLM Testing | ETL Testing | Playwright | API Testing
-
-I'm a Software Development Engineer in Test (SDET) with 3+ years of experience in designing scalable automation frameworks, validating enterprise applications, and testing AI-powered systems.
-
-My expertise spans traditional software testing and next-generation AI testing, including Playwright automation, API testing, ETL validation, database testing, and LLM/RAG evaluation. I enjoy building reliable automation solutions that improve software quality and accelerate release cycles.
-
----
-
-## 💼 What I Do
-
-- 🤖 Build scalable Playwright Automation Frameworks
-- 🧪 Manual & Automation Testing
-- 🌐 REST API Testing & API Automation
-- 🗄️ Database & ETL Testing
-- 📊 SQL & PySpark Data Validation
-- 🧠 LLM & RAG Testing
-- 📈 AI Evaluation using DeepEval & Ragas
-- 🔄 CI/CD Test Automation
-- ⚡ Agile Software Development
+🔭 I'm a **Software Test Engineer (SDET)** with 3+ years of experience building automation frameworks and validating everything from **REST APIs and ETL pipelines** to **LLM/RAG-based GenAI systems**.
+💡 I specialize in designing **scalable Playwright automation frameworks** (Page Object Model, reusable utilities, parallel execution) that cut regression cycles and speed up test development.
+🤖 Currently expanding into **AI/LLM Testing** — evaluating Generative AI and RAG pipelines using **DeepEval, Ragas, LangChain, and MCP (Model Context Protocol)**.
 
 ---
 
-# 🛠️ Tech Stack
+## 💻 Tech Stack
 
-## Programming Languages
+### 🧪 Test Automation & QA
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🧑‍💻 Programming & Query Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
----
+### 🤖 AI / LLM Testing & GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)
+![DeepEval](https://img.shields.io/badge/DeepEval-6A0DAD?style=for-the-badge)
+![Ragas](https://img.shields.io/badge/Ragas-FF4500?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG--Pipeline--Testing-007ACC?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-121212?style=for-the-badge)
+![Prompt Testing](https://img.shields.io/badge/Prompt_Testing-00897B?style=for-the-badge)
 
-## Automation Testing
+### 💾 Database & ETL Testing
+![SQL](https://img.shields.io/badge/Database_Testing-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-blue?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/BI_Testing_Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL--Testing-blue?style=for-the-badge)
 
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### Expertise
-
-- Page Object Model (POM)
-- Fixtures
-- Parallel Execution
-- Cross Browser Testing
-- Assertions
-- Reporting
-- Test Data Management
-- Reusable Framework Design
-
----
-
-## API Testing
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
-- REST API Testing
-- API Automation
-- Authentication Testing
-- JSON Validation
-- Error Handling
-- Requests Library
-- Playwright API Testing
-
----
-
-## Database & ETL Testing
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Skills
-
-- SQL
-- ETL Testing
-- Source to Target Validation
-- Data Warehouse Testing
-- Database Testing
-- BI Testing
-- PySpark Validation
-
----
-
-## AI & GenAI Testing
-
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### AI Testing Skills
-
-- Generative AI Testing
-- Prompt Testing
-- LLM Testing
-- RAG Testing
-- DeepEval
-- Ragas
-- LangChain
-- MCP (Model Context Protocol)
-- Hallucination Testing
-- Response Evaluation
-- AI Quality Metrics
-
----
-
-## DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### ⚙️ Tools | CI/CD | Methodologies
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_Scrum-009999?style=for-the-badge)
 
 ---
 
-# 📂 Featured Projects
+## 🌍 Domain Expertise
 
-### 🏥 Healthcare Billing & Patient Management
-
-- Playwright Automation Framework
-- API Testing
-- SQL Validation
-- ETL Testing
-- Jenkins CI/CD
-- POM Framework
+- **Healthcare:** Patient registration, appointment scheduling, billing, and insurance workflow validation across UI, API, database, and ETL layers.
+- **HRMS (Human Resource Management Systems):** Onboarding, attendance, payroll, and leave management automation with end-to-end data integrity checks.
+- **E-Commerce:** Product search, cart, checkout, order tracking, and payment/order data validation.
 
 ---
 
-### 👨‍💼 HRMS Automation Framework
+## 🧩 Core Focus Areas
 
-- Employee Lifecycle Testing
-- Payroll Validation
-- REST API Testing
-- SQL Database Validation
-- End-to-End Automation
-
----
-
-### 🤖 AI & LLM Testing
-
-- RAG Application Testing
-- Prompt Validation
-- DeepEval Metrics
-- Ragas Evaluation
-- LangChain Applications
-- MCP Testing
+- 🧪 **Test Automation Frameworks** — Playwright & Selenium frameworks with Page Object Model, reusable utilities, and parallel execution.
+- 🔌 **API Testing** — REST API validation covering auth, payloads, business rules, and error handling using Postman & Python Requests.
+- 🗄️ **ETL & Database Testing** — Source-to-target validation, SQL, PySpark, and BI report reconciliation in Tableau.
+- 🤖 **AI/LLM & GenAI Testing** — Evaluating RAG pipelines and LLM outputs with DeepEval, Ragas, LangChain, and MCP.
+- 🔁 **CI/CD & Agile QA** — Jenkins pipeline integration, Jira/Azure DevOps defect tracking, and sprint-based Agile testing.
 
 ---
 
-# 🎯 Currently Learning
+## 📈 Highlights
 
-- Advanced Playwright
-- AI Agent Testing
-- LangGraph
-- Agentic AI
-- AI Test Automation
-- Self-Healing Test Frameworks
-- MCP Servers
-- GitHub Actions
-- Docker
-
----
-
-# 📈 GitHub Goals
-
-✔ Production Ready Playwright Framework
-
-✔ API Automation Framework
-
-✔ ETL Testing Repository
-
-✔ SQL Interview Repository
-
-✔ AI Testing Repository
-
-✔ RAG Testing Examples
-
-✔ DeepEval & Ragas Examples
-
-✔ Playwright + AI Automation
+- ⬇️ Reduced regression cycle time by **~60%** through reusable Playwright automation frameworks.
+- ⚡ Cut new test-case development time by **~30%** with reusable components and utility libraries.
+- ✅ Automated validation for **50+ REST API endpoints** covering authentication, payloads, and business rules.
 
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn
-https://linkedin.com/in/ladvikar-viraj
-
-💻 GitHub
-https://github.com/virajladvikar
-
-📧 Email
-ladvikarviraj@gmail.com
-
-📍 Pune, Maharashtra, India
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj_Ladvikar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ladvikar-viraj)
+📧 **Email:** ladvikarviraj@gmail.com
+📍 **Location:** Pune, Maharashtra, India
 
 ---
 
-## 💡 Motto
-
-> "Quality is not just testing software—it's building confidence in every release, including AI-powered applications."
-
-⭐ Thanks for visiting my profile!
+⭐ *"Ensuring quality, from classic software to the next generation of AI-powered systems."*
