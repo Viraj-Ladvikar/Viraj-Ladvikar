@@ -1,81 +1,205 @@
-# 👋 Hi, I'm **Viraj Ladvikar**
-### 🚀 AI Engineer | Data Scientist | Generative & Agentic AI | Data Engineer | Data Analyst | FSDS | BFSI | HRMS | CRM  
+# 👋 Hi, I'm Viraj Ladvikar
 
-🔭 I’m currently working at the intersection of **Data Science, Generative AI, and Agentic AI**, building intelligent, data-driven systems across **BFSI, HRMS, and CRM** domains.  
-💡 Specialized in designing **end-to-end AI pipelines** — from **data collection, engineering, and analytics** to **model training, LLM integration, and automation**.  
-🚀 Passionate about **data visualization, applied ML/DL, and intelligent automation**, blending engineering precision with AI creativity.  
+## 🚀 SDET | QA Automation Engineer | AI/LLM Testing | ETL Testing | Playwright | API Testing
+
+I'm a Software Development Engineer in Test (SDET) with 3+ years of experience in designing scalable automation frameworks, validating enterprise applications, and testing AI-powered systems.
+
+My expertise spans traditional software testing and next-generation AI testing, including Playwright automation, API testing, ETL validation, database testing, and LLM/RAG evaluation. I enjoy building reliable automation solutions that improve software quality and accelerate release cycles.
 
 ---
 
-## 💻 Tech Stack
+## 💼 What I Do
 
-### 🧠 AI | Data Science | Machine Learning  
+- 🤖 Build scalable Playwright Automation Frameworks
+- 🧪 Manual & Automation Testing
+- 🌐 REST API Testing & API Automation
+- 🗄️ Database & ETL Testing
+- 📊 SQL & PySpark Data Validation
+- 🧠 LLM & RAG Testing
+- 📈 AI Evaluation using DeepEval & Ragas
+- 🔄 CI/CD Test Automation
+- ⚡ Agile Software Development
+
+---
+
+# 🛠️ Tech Stack
+
+## Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FFB6C1?style=for-the-badge&logo=llama&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
 
-### 💾 Data Engineering | Databases  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL--Pipelines-blue?style=for-the-badge)
+---
 
-### 🤖 Generative & Agentic AI  
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)
-![VectorDB](https://img.shields.io/badge/Vector_Databases-FF9900?style=for-the-badge&logo=milvus&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG--Pipeline-007ACC?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/Large_Language_Models-00897B?style=for-the-badge)
+## Automation Testing
 
-### ⚙️ DevOps | Tools | Cloud  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Expertise
+
+- Page Object Model (POM)
+- Fixtures
+- Parallel Execution
+- Cross Browser Testing
+- Assertions
+- Reporting
+- Test Data Management
+- Reusable Framework Design
+
+---
+
+## API Testing
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+- REST API Testing
+- API Automation
+- Authentication Testing
+- JSON Validation
+- Error Handling
+- Requests Library
+- Playwright API Testing
 
 ---
 
-## 🌍 Domain Expertise
+## Database & ETL Testing
 
-- **BFSI (Banking, Financial Services & Insurance):**  
-  Credit risk modeling, fraud detection, financial forecasting, customer churn prediction, and intelligent insights for decision-making.  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **HRMS (Human Resource Management Systems):**  
-  Employee analytics, attrition prediction, attendance tracking, and AI-powered performance evaluation systems.  
+### Skills
 
-- **CRM (Customer Relationship Management):**  
-  Customer segmentation, lead scoring, sales forecasting, and sentiment-driven automation with AI integration.  
-
----
-
-## 🧩 Core Focus Areas
-
-- 🧠 **Generative AI & Agentic AI Systems** — Building autonomous AI agents and RAG-based solutions.  
-- 📊 **Data Visualization & Business Intelligence** — Interactive dashboards using Power BI, Plotly, and Matplotlib.  
-- 🔍 **Exploratory Data Analysis (EDA)** — Extracting insights, trends, and correlations from structured/unstructured data.  
-- 🤖 **Machine Learning (ML)** — Predictive modeling, feature engineering, and real-world deployment.  
-- 🧬 **Deep Learning (DL)** — Neural network architectures for NLP, tabular, and sequential data.  
-- 👁️ **Computer Vision (CV)** — Image recognition, object detection, and video analytics.  
-- ⚙️ **Data Engineering & Pipelines** — Real-time ETL, Kafka streaming, and data warehouse optimization.  
-- ☁️ **Cloud & MLOps** — Model deployment, CI/CD, and containerized ML with Docker & AWS.  
+- SQL
+- ETL Testing
+- Source to Target Validation
+- Data Warehouse Testing
+- Database Testing
+- BI Testing
+- PySpark Validation
 
 ---
 
-## 📫 Connect With Me  
+## AI & GenAI Testing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj_Ladvikar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/viraj-ladvikar)  
-[![GitHub](https://img.shields.io/badge/GitHub-virajladvikar-181717?style=for-the-badge&logo=github)](https://github.com/virajladvikar)  
-📧 **Email:** virajladvikar@example.com  
-🌐 **Portfolio:** Coming Soon  
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### AI Testing Skills
+
+- Generative AI Testing
+- Prompt Testing
+- LLM Testing
+- RAG Testing
+- DeepEval
+- Ragas
+- LangChain
+- MCP (Model Context Protocol)
+- Hallucination Testing
+- Response Evaluation
+- AI Quality Metrics
 
 ---
 
-⭐ *“Transforming Data into Intelligence, and Intelligence into Action.”*
+## DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+# 📂 Featured Projects
+
+### 🏥 Healthcare Billing & Patient Management
+
+- Playwright Automation Framework
+- API Testing
+- SQL Validation
+- ETL Testing
+- Jenkins CI/CD
+- POM Framework
+
+---
+
+### 👨‍💼 HRMS Automation Framework
+
+- Employee Lifecycle Testing
+- Payroll Validation
+- REST API Testing
+- SQL Database Validation
+- End-to-End Automation
+
+---
+
+### 🤖 AI & LLM Testing
+
+- RAG Application Testing
+- Prompt Validation
+- DeepEval Metrics
+- Ragas Evaluation
+- LangChain Applications
+- MCP Testing
+
+---
+
+# 🎯 Currently Learning
+
+- Advanced Playwright
+- AI Agent Testing
+- LangGraph
+- Agentic AI
+- AI Test Automation
+- Self-Healing Test Frameworks
+- MCP Servers
+- GitHub Actions
+- Docker
+
+---
+
+# 📈 GitHub Goals
+
+✔ Production Ready Playwright Framework
+
+✔ API Automation Framework
+
+✔ ETL Testing Repository
+
+✔ SQL Interview Repository
+
+✔ AI Testing Repository
+
+✔ RAG Testing Examples
+
+✔ DeepEval & Ragas Examples
+
+✔ Playwright + AI Automation
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn
+https://linkedin.com/in/ladvikar-viraj
+
+💻 GitHub
+https://github.com/virajladvikar
+
+📧 Email
+ladvikarviraj@gmail.com
+
+📍 Pune, Maharashtra, India
+
+---
+
+## 💡 Motto
+
+> "Quality is not just testing software—it's building confidence in every release, including AI-powered applications."
+
+⭐ Thanks for visiting my profile!
